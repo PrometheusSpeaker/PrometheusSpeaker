@@ -1,0 +1,5 @@
+receivers:
+- name: 'webhook_receiver'
+  webhook_configs:
+  - url: 'http://localhost:3447/post'
+    send_resolved: true
