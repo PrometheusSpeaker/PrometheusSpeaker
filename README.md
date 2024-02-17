@@ -1,2 +1,1 @@
-Prometheus Speaker
-Prometheus Speaker is an application where you can see and hear  the firing alerts using prometheus speaker application it is easy to use. please follow steps to deploy in your local and test environments. 
+Prometheus Speaker is an application designed for visualizing and listening to firing alerts. It has been crafted for user-friendly operation. Deploy it in your environment using the provided docker-compose file.
