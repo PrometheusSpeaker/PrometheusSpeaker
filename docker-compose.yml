@@ -1,0 +1,8 @@
+version: '3'
+
+services:
+  prometheusspeaker:
+    container_name: prometheusspeaker
+    image: apsreddy1074/prometheus_speaker
+    ports:
+      - "3447:3447"
